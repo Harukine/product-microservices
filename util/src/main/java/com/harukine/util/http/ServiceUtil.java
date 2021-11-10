@@ -1,4 +1,4 @@
-com.harukine.util.http;
+package com.harukine.util.http;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
